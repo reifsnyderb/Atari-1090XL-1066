@@ -1,3 +1,3 @@
 # 1066
 
-apply fixes to sw1 c1 j1 and edge connector as pointed out by atari-passion on atariage.com
+64k/256k 1090XL DRAM Card
